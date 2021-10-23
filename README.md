@@ -2,7 +2,7 @@
 
 ## Introduction :shamrock:
 
-In this project , all the functions of a basic calculator are being implemented by using HTML, CSS and JavaScript . A simple calculator application is made in order to perform basic functions of a calculator. A switch is added so as to implement dark mode and light mode in the calculator which makes the interface look more interactive.
+In this project , all the functions of a basic calculator are being implemented by using HTML, CSS and JavaScript . A simple calculator application is made in order to perform basic calculations. In addition, a switch is added so as to implement dark mode and light mode in the calculator which makes the interface look more interactive.
 
 ## Features :eyes:
 
